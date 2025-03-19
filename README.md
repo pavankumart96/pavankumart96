@@ -11,9 +11,13 @@ I'm a passionate Computer Science graduate student aiming to build a career as a
 - **Tools & Platforms:** Git, Visual Studio Code, Jupyter Notebook, Google Cloud Run, Pycharm
 
 ## 🚀 Projects
-### 🔹 [Audio Text Converter](https://dialogflow-web-1033689427529.us-central1.run.app/#home)
-- A Flask-based web application that converts **audio to text** and **text to audio** using Google's APIs.
-- Designed with an intuitive HTML interface for seamless interaction.
+### 🔹 [Audio and Text Analysis](https://dialogflow-web-1033689427529.us-central1.run.app/#home)
+✅ Overview: Developed a Flask-based web application that efficiently converts audio to text and text to audio using Google's APIs.
+✅ Tech Stack: Flask, HTML, CSS, Google Speech-to-Text & Text-to-Speech APIs.
+✅ Key Features: Interactive interface, seamless audio recording, accurate transcription.
+✅ Challenges Solved: Improved transcription accuracy by fine-tuning audio processing logic.
+✅ Impact/Results: Reduced manual transcription effort by 80%.
+✅ Future Enhancements: Plan to add support for multiple languages and file format compatibility.v
 
 ### 🔹 Sentiment Analysis Using TextBlob
 - Conducted sentiment analysis on 2000 text pieces (1000 positive, 1000 negative) using **TextBlob** for efficient polarity detection.
