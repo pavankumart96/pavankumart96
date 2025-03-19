@@ -31,8 +31,11 @@ I'm currently focused on mastering:
 - **Power BI**: Creating interactive dashboards and insightful visualizations for data-driven decision-making.
 
 ## 🎓 Education
-- **Master's in Computer Science** | Florida Atlantic University | Expected Graduation: May 2025
-- **BTech in Computer Science and Engineering** | India
+### Master's in Computer and Information Sciences General
+-  Florida Atlantic University
+-  Expected Graduation: May 2025
+   ### Bachelor's in Computer Science and Engineering
+   - GITAM Deemed University | 2017 - 2021
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [Pavan Kumar Thirumalasetti](https://www.linkedin.com/in/pavan-kumar-thirumalasetti-77138b153])
